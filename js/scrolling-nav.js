@@ -17,3 +17,10 @@ $(function() {
         event.preventDefault();
     });
 });
+
+$(function(){ 
+     var navMain = $("#menu");
+     navMain.on("click", "a", null, function () {
+         navMain.collapse('hide');
+     });
+ });
