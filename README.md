@@ -1,7 +1,7 @@
 # migueGodoy.github.io
 My personal webpage
 
-#TO-DOs
+#TO-DO
 - [ ] Change picture
 - [x] Choose better social icons
 - [ ] Show social icons surrounding my image
