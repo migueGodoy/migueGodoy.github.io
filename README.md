@@ -6,5 +6,6 @@ My personal webpage
 - [x] Choose better social icons
 - [ ] Show social icons surrounding my image
 - [ ] Add contact form
+- [ ] Add CSS
 - [ ] Make contact form work :)
 - [ ] Add personal info section
